@@ -1,4 +1,4 @@
 
-@app = angular.module('showTracker', [
+@app = angular.module('angularFrontend', [
   'ngRoute'
 ])
